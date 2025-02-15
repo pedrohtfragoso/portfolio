@@ -146,4 +146,16 @@ body {
     .apresentacao__conteudo {
         width: auto;
     }
+
+    .apresentacao__conteudo__texto {
+        width: auto;
+        justify-content: center;
+    }
+    
+    .apresentacao__conteudo__texto__logo {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
 }
